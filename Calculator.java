@@ -1,8 +1,4 @@
-/*
-  MD.Anayet Hossain
-  ID:2012020191
-  SECTION:D
-*/
+
 //package Calculator;
 
  
